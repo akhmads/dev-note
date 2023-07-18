@@ -1,2 +1,4 @@
-# dev-note
-Development Notes
+# Development Notes
+
+## Usefull links
+- https://laravel.com/docs/7.x/
