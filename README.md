@@ -6,4 +6,5 @@
 - Jquery : https://jquery.com/
 - Admin LTE
 - Pengen YOLO
-- Tes
+- Tes 1
+- Tes 2
