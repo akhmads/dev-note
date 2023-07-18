@@ -1,4 +1,4 @@
 # Development Notes
 
 ## Usefull links
-- Laravel 7.x Docs : https://laravel.com/docs/7.x/
+- Laravel 7.x Docs : [go](https://laravel.com/docs/7.x/){:target="_blank"}
